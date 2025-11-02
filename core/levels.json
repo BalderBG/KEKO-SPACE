@@ -1,0 +1,56 @@
+{
+  "levels": [
+    {
+      "name": "AT-00",
+      "duration": 50000,        
+      "spawn_interval": 1000,
+      "speed_range": [3, 9],
+      "bg_color": [10, 10, 30],
+      "obstacle_type": "meteorito",
+      "background": "space1.png",
+      "planet": "Nexodus"
+    },
+    {
+      "name": "AT-01",
+      "duration": 70000,
+      "spawn_interval": 900,
+      "speed_range": [5, 12],
+      "bg_color": [20, 10, 40],
+      "obstacle_type": "meteorito",
+      "background": "space1.png",
+      "planet": "Nextremus"
+    },
+    {
+      "name": "AT-02",
+      "duration": 80000,
+      "spawn_interval": 700,
+      "speed_range": [7, 14],
+      "bg_color": [25, 10, 15],
+      "obstacle_type": "meteorito",
+      "background": "space1.png",
+      "planet": "Nexglorius"
+    },
+    {
+      "name": "AT-03",
+      "duration": 80000,
+      "spawn_interval": 600,
+      "speed_range": [9, 15],
+      "bg_color": [10, 20, 40],
+      "obstacle_type": "meteorito",
+      "background": "space1.png",
+      "planet": "Nexacuo"
+    },
+    {
+      "name": "AT-F4",
+      "duration": 100000,
+      "spawn_interval": 350,
+      "speed_range": [14, 22],
+      "bg_color": [0, 0, 0],
+      "obstacle_type": "meteorito",
+      "background": "space1.png",
+      "planet": "Nexcry"
+    }
+  ]
+}
+
+
