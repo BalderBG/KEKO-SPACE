@@ -2,7 +2,7 @@
   "levels": [
     {
       "name": "AT-00",
-      "duration": 50000,        
+      "duration": 10000,        
       "spawn_interval": 1000,
       "speed_range": [3, 9],
       "bg_color": [10, 10, 30],
@@ -12,7 +12,7 @@
     },
     {
       "name": "AT-01",
-      "duration": 70000,
+      "duration": 10000,
       "spawn_interval": 900,
       "speed_range": [5, 12],
       "bg_color": [20, 10, 40],

@@ -85,7 +85,20 @@ KEKO-SPACE/
 ### Instalación
 
 ```bash
-git clone 
+# Clonar el repositorio
+git clone https://github.com/BalderBG/KEKO-SPACE.git
+cd KEKO-SPACE
+
+# (Opcional) Crear entorno virtual
+python -m venv env
+source env/bin/activate   # En Linux/Mac
+env\Scripts\activate      # En Windows
+
+# Instalar dependencias
+pip install pygame
+
+# Ejecutar el juego
+python main.py
 ```
 ## Créditos
 
